@@ -23,7 +23,9 @@ layout: page
   <span class="badge badge-pill text-primary border border-primary">{{ tag }}</span>
   {% endfor %}
   {% endif %}
-
+  <i class="fa fa-eye" aria-hidden="true"></i>
+  <span class="js-pageview" data-page-key="{{ page.key }}">0</span>
+  <em class="post-meta-item-text">阅读</em>
 </p>
 
 {{ content }}
