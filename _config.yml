@@ -7,6 +7,20 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 repository:
 
 
+pageview:
+  provider: leancloud
+  leancloud:
+    app_id    : PrK32JwAxsVwQRgmh8ztNccp-gzGzoHsz
+    app_key   : oL8p0Sy4TVt6rRcC5PnrP311
+    app_class : Blog_Views
+
+#Default Sources
+sources:
+  unpkg:
+    leancloud_js_sdk: '//cdn1.lncld.net/static/js/3.4.1/av-min.js'
+    jquery: 'https://unpkg.com/jquery@3.3.1/dist/jquery.min.js'
+
+
 # Build settings
 markdown: kramdown
 # plugins:

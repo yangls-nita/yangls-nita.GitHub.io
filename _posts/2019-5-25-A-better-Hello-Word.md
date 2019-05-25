@@ -4,6 +4,7 @@ tags: [Software Development]
 style: fill
 color: dark
 description: A different “hello world” to demonstrate language features better.
+key: 10000001
 ---
 
 Source: [RICO STA. CRUZ](https://ricostacruz.com/til/a-better-hello-world)
