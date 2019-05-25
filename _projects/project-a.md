@@ -14,7 +14,3 @@ Projects A is an awesome project! Just remove the direct link from the project's
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 ![](https://techcrunch.com/wp-content/uploads/2018/05/screenshot-materialio.png)
-
-<p class="text-center">
-{% include button.html link="https://github.com/YoussefRaafatNasry/portfolYOU" text="Learn More" %}
-</p>
