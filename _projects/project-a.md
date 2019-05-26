@@ -10,6 +10,7 @@ key: 20000000
 
 “记事日历”，它可能来源于某时某地突发的感想或经历。  
 大脑突然一下就闪过的想法，很想记录下来。它可能是人民广场玩滑板酷酷的女孩，是胡桃里聚光灯下演奏的主唱，是梳妆台上镜子里成长的自己，亦是旅游地标中打卡拍照的人或物。这些瞬间虽小易逝，但这份美好值得被纪念。
+<div class="row">
 <div class="col">
 <img src="https://i.postimg.cc/gc4HS7Vv/1.jpg">
 <div>
@@ -25,7 +26,7 @@ key: 20000000
 <div class="col">
 <img src="https://i.postimg.cc/fLffh26Q/1-4.jpg">
 </div>
-
+</div>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 ![](https://techcrunch.com/wp-content/uploads/2018/05/screenshot-materialio.png)
