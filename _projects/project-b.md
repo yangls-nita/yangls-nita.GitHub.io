@@ -1,49 +1,20 @@
 ---
 name: 名片设计
 tools: [PS, AI, 平面排版]
-image: https://i.postimg.cc/W4MMMYpq/01.jpg
-description: 从17年年底实习接触的手绘板，至今虽然时间较长，作品屈指可数，断断续续的练习，19年定会勤加练习，实现一个小目标，hahaha...
+image: https://i.postimg.cc/3RGNbh8J/1.jpg
+description: 实习时记得公司的指导老师面谈时问过我自己的打算是什么，对设计这一块有什么想法，当时很有勇气的说出“我喜欢设计”这几个字眼，但是在没有想法做不出东西的时候会怀疑自己真的是否适合这个职业，开始动摇最初的信念，思考着设计对我而言到底意味着什么，灵感来源于哪里，看过的？想做的？或梦着的？一时无法得知。梦想总在某个瞌睡的午后在半梦半醒之间游离，喜欢确实是一瞬间，可确定是真喜欢还是需要花时间的。
 key: 20000001
 ---
 
-## 板绘整理
+## 上海梦中心名片设计
 
-“记事日历”，它可能来源于某时某地突发的感想或经历。  
-大脑突然一下就闪过的想法，很想记录下来。它可能是人民广场玩滑板酷酷的女孩，是胡桃里聚光灯下演奏的主唱，是梳妆台上镜子里成长的自己，亦是旅游地标中打卡拍照的人或物。这些瞬间虽小易逝，但这份美好值得被纪念。
+此次名片的小设计主要从梦中心特殊的地理位置及其建筑物为创意点，创意及工艺方向分为建筑简洁版、建筑镂空版和地图版三种版式。改稿太多只选了第一稿和接近定稿的画面。
 
-<table>
-<tr>
-<td><center><img src="https://i.postimg.cc/gc4HS7Vv/1.jpg"></center></td>
-<td><center><img src="https://i.postimg.cc/ZKRF1LHX/1.jpg"></center></td>
-</tr>
-</table>
 
-<table>
-<tr>
-<td><center><img src="https://i.postimg.cc/4y8vYKf8/1-2.jpg"></center></td>
-<td><center><img src="https://i.postimg.cc/BbZcZ50L/1-3.jpg"></center></td>
-</tr>
-<tr>
-<td><center><img src="https://i.postimg.cc/fLffh26Q/1-4.jpg"></center></td>
-</tr>
-</table>  
-  
-<br />
-<br />
-平时乱画的，嘻嘻~
+![](https://i.postimg.cc/QCrt2zCg/project-b-1-7.jpg)
 
-![](https://i.postimg.cc/BbvHfqT2/shouhuizhiwu1.png)
+![](https://i.postimg.cc/RV4hG2j4/project-b-1-8.jpg)
 
-<table>
-<tr>
-<td><center><img src="https://i.postimg.cc/VNyq0Pwc/image.jpg"></center></td>
-<td><center><img src="https://i.postimg.cc/W4MMMYpq/01.jpg"></center></td>
-</tr>
-</table>
+![](https://i.postimg.cc/x8yCnPNw/project-b-1-9.jpg)
 
-<table>
-<tr>
-<td><center><img src="https://i.postimg.cc/9MCy1Pz8/image.jpg"></center></td>
-<td><center><img src="https://i.postimg.cc/1tBwdgq9/image.jpg"></center></td>
-</tr>
-</table>
+![](https://i.postimg.cc/gcvrVGtg/project-b-1-10.jpg)
