@@ -1,8 +1,7 @@
 # Site settings
 title: Yangls.nita | live your dream
 description: >- # this means to ignore newlines until "baseurl:"
-  Anyway,tomorrow 
-  is another day.
+  Anyway,tomorrow is another day.
 baseurl: ""  # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 repository:
