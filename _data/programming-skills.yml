@@ -1,11 +1,7 @@
-- name: HTML5/CSS3
-  percentage: 90
+- name: Adobe Photoshop
+  percentage: 80
   color: danger
 
-- name: Go
-  percentage: 80
+- name: Adobe Illustrator
+  percentage: 90
   color:
-
-- name: Python
-  percentage: 70
-  color: dark
