@@ -44,6 +44,6 @@ key: 20000000
 <table>
 <tr>
 <td><center><img src="https://i.postimg.cc/9MCy1Pz8/image.jpg"></center></td>
-<td><center><img src="https:https://i.postimg.cc/1tBwdgq9/image.jpg"></center></td>
+<td><center><img src="https://i.postimg.cc/1tBwdgq9/image.jpg"></center></td>
 </tr>
 </table>
