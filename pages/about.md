@@ -12,7 +12,7 @@ Hi, 我是 **{{ site.author.name }}**,<br />
 
 <div class="row">
 {% include skills.html title="Skills" source=site.data.programming-skills %}
-{% include skills.html title="Skills" source=site.data.other-skills %}
+{% include skills.html title="" source=site.data.other-skills %}
 </div>
 
 <div class="row">
