@@ -24,7 +24,6 @@ key: 20000000
 </tr>
 <tr>
 <td><center><img src="https://i.postimg.cc/fLffh26Q/1-4.jpg"></center></td>
-<td><center></center></td>
 </tr>
 </table>
 
