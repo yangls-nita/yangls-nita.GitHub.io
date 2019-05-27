@@ -1,7 +1,7 @@
 ---
 name: 板绘整理
 tools: [PS, AI, 手绘板]
-image: https://i.postimg.cc/W4MMMYpq/01.jpg
+image: https://i.postimg.cc/Y2mMGMD9/1.jpg
 description: 从17年年底实习接触的手绘板，至今虽然时间较长，作品屈指可数，断断续续的练习，19年定会勤加练习，实现一个小目标，hahaha...
 key: 20000000
 ---
