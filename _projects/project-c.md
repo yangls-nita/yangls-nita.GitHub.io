@@ -3,7 +3,7 @@ name: 必利劲
 tools: [PS, AI, H5]
 image: https://i.postimg.cc/WbmNydSq/image.jpg
 description: 早泄药品
-key: 20000000
+key: 20000002
 ---
 
 ## 必利劲盐酸达泊西汀片
