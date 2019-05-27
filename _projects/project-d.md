@@ -1,7 +1,7 @@
 ---
 name: roku单瓶成列制作
 tools: [PS, AI, 完稿]
-image: https://i.postimg.cc/WbmNydSq/image.jpg
+image: https://i.postimg.cc/vBc2K8x6/roku-1.jpg
 description: 展会活动物料制作
 key: 20000003
 ---
