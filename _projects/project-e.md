@@ -1,6 +1,6 @@
 ---
 name: 邀请函制作整理
-tools: [PS, AI, 平面，完稿]
+tools: [PS, AI, 平面完稿]
 image: https://i.postimg.cc/V6tzkV85/1.jpg
 description: 在印刷制作前期，创意除外，图片、logo精度大小、字体、边距等排版需要严格做好完稿。
 key: 20000004
@@ -14,6 +14,7 @@ key: 20000004
 
 ![](https://i.postimg.cc/qR2dT6s3/04.jpg)
 波科ERCP大赛邀请函  
+<br />
 
 <table>
 <tr>
@@ -48,3 +49,5 @@ key: 20000004
 ![](https://i.postimg.cc/FH15KBbm/315x148mm-3mm-p-1-02.jpg)
 ![](https://i.postimg.cc/Mp4kfmtB/315x148mm-3mm-p-2-02.jpg)
 松下快闪店苏州站邀请函三折页正反面
+<br />
+<br />
