@@ -2,7 +2,7 @@
 name: 松下
 tools: [PS, AI, 平面完稿]
 image: https://i.postimg.cc/RZxcq1Cn/16-9-03.jpg
-description: 松下快闪店海报、易拉宝、手举牌等展会线下物料延展。
+description: 松下快闪店海报、易拉宝、手举牌等展会线下物料设计延展。
 key: 20000006
 ---
 
@@ -53,8 +53,6 @@ A4买赠画面和买赠pop
 <tr>
 <td><center><img src="https://i.postimg.cc/7PcRsRX8/A4-210x297mm-3mm-02.jpg"></center></td>
 <td><center><img src="https://i.postimg.cc/9f7PfxZT/A4-210x297mm-02.jpg"></center></td>
-</tr>
-<tr>
 <td><center><img src="https://i.postimg.cc/SsPgPX67/A4-210x297mm-3mm-02.jpg"></center></td>
 <tr>
 </table>  
@@ -82,7 +80,7 @@ A4买赠画面和买赠pop
 </table>  
 产品诉求牌画面  
 <br />
-<br />
+<br />  
 
 ![](https://i.postimg.cc/ZnV5ZSqc/315x148mm-3mm-p-1-02.jpg)
 ![](https://i.postimg.cc/v8zB5WvV/315x148mm-3mm-p-2-02.jpg)
