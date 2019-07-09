@@ -54,9 +54,9 @@ A4买赠画面和买赠pop
 <td><center><img src="https://i.postimg.cc/7PcRsRX8/A4-210x297mm-3mm-02.jpg"></center></td>
 <td><center><img src="https://i.postimg.cc/9f7PfxZT/A4-210x297mm-02.jpg"></center></td>
 <td><center><img src="https://i.postimg.cc/SsPgPX67/A4-210x297mm-3mm-02.jpg"></center></td>
-<tr>
-</table>  
-双十一活动宣传画面  
+</tr>
+</table>
+双十一活动A4画面
 <br />
 <br />
 
