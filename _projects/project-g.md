@@ -62,10 +62,36 @@ A4买赠画面和买赠pop
 <br />
 <br />
 
+<table>
+<tr>
+<td><center><img src="https://i.postimg.cc/0Q9vNBFH/800x1800mm-02.jpg"></center></td>
+<td><center><img src="https://i.postimg.cc/gjY3Nm5q/t-800x1800mm-10mm-02.jpg"></center></td>
+<td><center><img src="https://i.postimg.cc/LXhpf14z/AW-W800x1800mm-5mm-02.jpg"></center></td>
+</tr>
+</table>  
+易拉宝和指示牌画面  
+<br />
+<br />
 
+<table>
+<tr>
+<td><center><img src="https://i.postimg.cc/Y9B9zRV1/90x60mm-3mm-1-02.jpg"></center></td>
+<td><center><img src="https://i.postimg.cc/rmGpnWX7/90x60mm-3mm-2-02.jpg"></center></td>
+<td><center><img src="https://i.postimg.cc/GtcmZ2bt/90x60mm-3mm-3-02.jpg"></center></td>
+</tr>
+</table>  
+产品诉求牌画面  
+<br />
+<br />
 
-![](https://i.postimg.cc/FH15KBbm/315x148mm-3mm-p-1-02.jpg)
-![](https://i.postimg.cc/Mp4kfmtB/315x148mm-3mm-p-2-02.jpg)
-松下快闪店苏州站邀请函三折页正反面
+![](https://i.postimg.cc/ZnV5ZSqc/315x148mm-3mm-p-1-02.jpg)
+![](https://i.postimg.cc/v8zB5WvV/315x148mm-3mm-p-2-02.jpg)
+邀请函产品三折页正反面
+<br />
+<br />
+
+![](https://i.postimg.cc/R0794BsH/01.jpg)
+![](https://i.postimg.cc/CKc0zN0h/0308-01.jpg)
+活动拍照手举牌
 <br />
 <br />
