@@ -1,6 +1,6 @@
 ---
 name: 名片设计
-tools: [PS, AI, 平面设计]
+tools: [创意, 平面设计]
 image: https://i.postimg.cc/3RGNbh8J/1.jpg
 description: 一个小小的名片也需要好好做创意。
 key: 20000001

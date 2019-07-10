@@ -1,6 +1,6 @@
 ---
 name: 邀请函制作整理
-tools: [PS, AI, 平面完稿]
+tools: [PS, 设计, 完稿]
 image: https://i.postimg.cc/V6tzkV85/1.jpg
 description: 在印刷制作前期，创意除外，图片、logo精度大小、字体、边距等排版需要严格做好完稿。
 key: 20000004

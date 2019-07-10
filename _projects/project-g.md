@@ -1,6 +1,6 @@
 ---
 name: 松下
-tools: [PS, AI, 海报]
+tools: [PS, 设计, 海报]
 image: https://i.postimg.cc/RZxcq1Cn/16-9-03.jpg
 description: 松下快闪店海报、易拉宝、手举牌等展会线下物料设计延展。
 key: 20000006
