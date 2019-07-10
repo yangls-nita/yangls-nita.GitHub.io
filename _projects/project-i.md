@@ -2,7 +2,7 @@
 name: YOHOBLU
 tools: [AI, 平面, 品牌]
 image: https://i.postimg.cc/1zyMg2hL/YOHO-1.jpg
-description: KT板、KV喷绘、抵用券套票等线下物料设计制作。
+description: KT板、KV喷绘、抵用券套票等线下物料设计。
 key: 20000008
 ---
 
