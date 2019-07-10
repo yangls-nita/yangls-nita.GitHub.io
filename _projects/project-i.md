@@ -63,9 +63,9 @@ key: 20000008
 <table>
 <tr>
 <td><center><img src="https://i.postimg.cc/TPh0qm19/01.jpg"></center></td>
-<td><center><img src="https://i.postimg.cc/xTR3wgb5/0827-01.jpg"></center></td>
+<td><center><img src="https://i.postimg.cc/K8s9kQff/0827-p-05.jpg"></center></td>
 </tr>
 </table>  
-收银台对内转盘画面  
+冰激凌插牌和手举牌  
 <br />
 <br />

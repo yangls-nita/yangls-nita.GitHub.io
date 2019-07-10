@@ -1,6 +1,6 @@
 ---
 name: 市百一店展厅项目
-tools: [PS, AI, 平面完稿]
+tools: [PS, AI, 平面]
 image: https://i.postimg.cc/wB6JM3j5/1.jpg
 description: 爱上海，忆生活主题展活动展厅内海报等线下物料设计。
 key: 20000007
