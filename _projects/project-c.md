@@ -1,8 +1,8 @@
 ---
 name: 必利劲
-tools: [PS, AI, H5]
+tools: [PS, 原创, H5]
 image: https://i.postimg.cc/WbmNydSq/image.jpg
-description: 早泄药品
+description: 线上产品入口图，直通车，H5页面设计。
 key: 20000002
 ---
 
@@ -51,10 +51,19 @@ H5自测页页面版式二
 
 <table>
 <tr>
-<td><center><img src="https://i.postimg.cc/8cB2Z6D1/pc-1920.jpg"></center>泉源堂活动页面</td>
-<td><center><img src="https://i.postimg.cc/QdB6tTPH/image.jpg"></center>游戏说明页面</td>
-<td><center><img src="https://i.postimg.cc/7YZsFcn1/image.jpg"></center>游戏说明页面</td>
+<td><center><img src="https://i.postimg.cc/QdB6tTPH/image.jpg"></center></td>
+<td><center><img src="https://i.postimg.cc/7YZsFcn1/image.jpg"></center></td>
 </tr>
 </table>
+EDM海报游戏说明页面
+<br />
+<br />
+
+<table>
+<tr>
+<td><center><img src="https://i.postimg.cc/8cB2Z6D1/pc-1920.jpg"></center></td>
+</tr>
+</table>
+泉源堂线上活动页面
 <br />
 <br />

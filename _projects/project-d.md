@@ -1,8 +1,8 @@
 ---
 name: roku单瓶成列制作
-tools: [PS, AI, 完稿]
+tools: [PS, AI, 包装]
 image: https://i.postimg.cc/vBc2K8x6/roku-1.jpg
-description: 展会活动物料制作
+description: 产品包装盒、灯箱、台卡、酒品单页等展会活动物料设计制作。
 key: 20000003
 ---
 
@@ -15,7 +15,7 @@ key: 20000003
 <td><center><img src="https://i.postimg.cc/0Qgp08vf/2-04.jpg"></center></td>
 </tr>
 </table>
-酒单   
+酒单画面   
 <br />
 <br />
 
@@ -35,7 +35,7 @@ key: 20000003
 <td><center><img src="https://i.postimg.cc/jSF6CHkB/131-X172mm-02.jpg"></center></td>
 </tr>
 </table>  
-酒单和台卡  
+酒单和台卡画面  
 <br />
 <br />
 
